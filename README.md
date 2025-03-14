@@ -4,11 +4,8 @@
 React Native를 활용하여 모바일 환경에 최적화하였으며, Firebase를 기반으로 서버 및 데이터베이스를 구축
 
 ## 개발 환경
-프론트엔드: React Native (expo-snak, Visual Studio Code)<br>
+프론트엔드: React Native (expo-snack, Visual Studio Code)<br>
 백엔드 및 DB: Firebase<br>
-
-## UI/UX 구성
-![image](https://github.com/user-attachments/assets/1ea9753a-c97e-438f-a1b3-f43b8cd3da5b)
 
 ## 주요 기능
 
@@ -49,12 +46,13 @@ React Native를 활용하여 모바일 환경에 최적화하였으며, Firebase
 * 커뮤니티 기능<br>
 
 ## 실행 화면
-![image](https://github.com/user-attachments/assets/58f3147b-d702-41a6-a79b-2df6df294d3b)
-![image](https://github.com/user-attachments/assets/5dd55dba-608d-4d91-b00b-1c241289f628)
-![image](https://github.com/user-attachments/assets/7be4e3eb-474b-41f1-b7e5-3d373ba74434)
-![image](https://github.com/user-attachments/assets/3b37504d-791f-4301-a8f8-6cef167298bb)
-![image](https://github.com/user-attachments/assets/eca85c70-ef96-4aee-affc-9151d85e3ba7)
-![image](https://github.com/user-attachments/assets/30056324-6ec1-4049-827a-82fd6a59802f)
+![image](https://github.com/user-attachments/assets/1ea9753a-c97e-438f-a1b3-f43b8cd3da5b)<br>
+
+![image](https://github.com/user-attachments/assets/340b18f6-470f-4a40-bd8f-33a5cc6eae03)
+![image](https://github.com/user-attachments/assets/801c03b5-1669-489d-9a4a-ff87616fc274)
+![image](https://github.com/user-attachments/assets/2d6ccd87-796e-496d-a75a-c7ee111ee0de)
+![image](https://github.com/user-attachments/assets/036f0ec1-97e5-4f78-81c2-b21b8531e3ef)
+
 
 
 ## 시연 영상
